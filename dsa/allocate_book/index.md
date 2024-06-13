@@ -4,7 +4,7 @@
 
 ### Allocate Books
 
-- [ ] [Coding Ninja Problem](https://www.naukri.com/code360/problems/allocate-books_1090540)
+- [x] [Coding Ninja Problem](https://www.naukri.com/code360/problems/allocate-books_1090540)
 
 ---
 
