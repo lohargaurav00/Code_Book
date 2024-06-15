@@ -4,7 +4,7 @@
 
 ### Selection Sort
 
-- [ ] [Coding Ninja Problem](https://www.naukri.com/code360/problems/selection-sort_981162)
+- [x] [Coding Ninja Problem](https://www.naukri.com/code360/problems/selection-sort_981162)
 
 ---
 
