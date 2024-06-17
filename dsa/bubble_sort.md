@@ -4,7 +4,7 @@
 
 ### Bubble Sort
 
-- [ ] [Coding Ninjas Problem](https://www.naukri.com/code360/problems/bubble-sort_980524)
+- [x] [Coding Ninjas Problem](https://www.naukri.com/code360/problems/bubble-sort_980524)
 
 ---
 

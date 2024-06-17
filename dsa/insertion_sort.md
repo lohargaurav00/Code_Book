@@ -4,7 +4,7 @@
 
 ### Insertion Sort
 
-- [ ] [Coding Ninjas Problem](https://www.naukri.com/code360/problems/insertion-sort_3155179)
+- [x] [Coding Ninjas Problem](https://www.naukri.com/code360/problems/insertion-sort_3155179)
 
 ---
 
