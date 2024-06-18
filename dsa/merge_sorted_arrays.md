@@ -4,7 +4,7 @@
 
 ### Merge Sorted Array
 
-- [ ] [LeetCode Problem](https://leetcode.com/problems/merge-sorted-array/description/)
+- [x] [LeetCode Problem](https://leetcode.com/problems/merge-sorted-array/description/)
 
 ---
 
