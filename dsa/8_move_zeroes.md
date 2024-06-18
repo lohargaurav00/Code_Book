@@ -4,7 +4,7 @@
 
 ### Move Zeroes
 
-- [ ] [LeetCode Problem](https://leetcode.com/problems/move-zeroes/)
+- [x] [LeetCode Problem](https://leetcode.com/problems/move-zeroes/)
 
 ---
 
