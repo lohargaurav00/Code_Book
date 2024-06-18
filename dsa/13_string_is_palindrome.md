@@ -4,7 +4,7 @@
 
 ### Check If The String Is A Palindrome
 
-- [x] [Coding Ninjas Problem](https://www.naukri.com/code360/problems/check-if-the-string-is-a-palindrome_1062633)
+- [ ] [Coding Ninjas Problem](https://www.naukri.com/code360/problems/check-if-the-string-is-a-palindrome_1062633)
 
 ---
 

@@ -4,7 +4,7 @@
 
 ### Sum Of Two Arrays
 
-- [x] [Coding Ninjas Problem](https://www.naukri.com/code360/problems/sum-of-two-arrays_893186)
+- [ ] [Coding Ninjas Problem](https://www.naukri.com/code360/problems/sum-of-two-arrays_893186)
 
 ---
 
