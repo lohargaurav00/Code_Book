@@ -4,7 +4,7 @@
 
 ### Rotate Array
 
-- [ ] [LeetCode Problem](https://leetcode.com/problems/rotate-array/)
+- [x] [LeetCode Problem](https://leetcode.com/problems/rotate-array/)
 
 ---
 
@@ -24,8 +24,6 @@ impl Solution {
         nums.copy_from_slice(&temp);
     }
 }
-
-
 ```
 
 <!-- ## Code Image
