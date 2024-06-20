@@ -4,7 +4,7 @@
 
 ### Check if Array Is Sorted and Rotated
 
-- [ ] [LeetCode Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)
+- [x] [LeetCode Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)
 
 ---
 
